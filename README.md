@@ -5,7 +5,7 @@ Implementation Snake game in the C++ programming language and Qt, based on MVC p
 
 ![Snake console](images/snake_console.png)  
 
-![Snake desktop](images/snake_desktop.png)  
+![Snake desktop](images/snake.gif)  
 
 The project consists of two separate components implementing the Snake game: a library responsible for the game logic and a desktop GUI.
 
