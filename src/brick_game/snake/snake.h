@@ -20,7 +20,7 @@
 #define START_LENGTH 4
 #define MAX_LENGTH 200
 #define SPEED_MIN 550
-#define WIN_POINTS HEIGHT*WIDTH-START_LENGTH-1
+#define WIN_POINTS HEIGHT* WIDTH - START_LENGTH - 1
 
 namespace s21 {
 // game states
